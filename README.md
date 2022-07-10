@@ -2,7 +2,6 @@
 This is my first react js project in IT 111 - PLATFORM TECHNOLOGIES.
 This project is created using react js, that can perform simple crud operation.
 
-Intructions
 Create or improve your React JS application so that it works properly. Your Web application must have met all the requirements:
 1. It has functional components.
 2. Can do route 3 or more pages.
